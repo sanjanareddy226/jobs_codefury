@@ -1,4 +1,4 @@
-# jobs_codefury
+# Jobs for the Unorganised sector
 
 ## Folder Structer: 
 App.py<br />
